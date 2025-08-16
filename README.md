@@ -1,4 +1,4 @@
-# PingPong (CS3205 - Assignment 2, Holi'25)
+# PingPong (CS3205 - Assignment 2)
 
 A simple **two-player networked Ping Pong game** implemented in C using **TCP sockets** and **ncurses** for terminal graphics.  
 
